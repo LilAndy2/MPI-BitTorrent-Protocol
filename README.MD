@@ -66,7 +66,7 @@ Each peer reads an input file named `in<rank>.txt`, formatted as follows:
 
 ## Example Execution
 ```sh
-mpirun -np 4 ./bittorrent_simulation
+mpirun -np 4 ./tema2
 ```
 This will start 1 tracker and 3 peers.
 
